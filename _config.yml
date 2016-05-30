@@ -1,14 +1,28 @@
-layout_spectrum: 0.6357829673215747
-typography_spectrum: 0.04723999323323369
-color:
-  brandStrength: 0.658830642933026
-  lightness: 0.6950867949053645
-  saturation: 0.5388897792436182
-  rhythmicContrast: 0.18670963356271386
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
 name: Elektromozaiek
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.86805
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000100'
+    - '#5f6561'
+    - '#dce5b7'
+    - '#c99b66'
+    - '#868d69'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.5
+purpose: []
