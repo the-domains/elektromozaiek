@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Elektromozaiek]]></title>
         <description><![CDATA[Elektromozaiek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elektromozaiek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 05:34:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 05:45:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elektromozaiek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3b8fa5-da8b-418f-9c1b-2980fb817c84.jpg">]]></description>
+            <link>https://thegrid.ai/elektromozaiek/a9f96440-795c-49c9-b75a-817385bfbef3/index.html</link>
+            <guid isPermaLink="false">a9f96440-795c-49c9-b75a-817385bfbef3</guid>
+            <pubDate>Tue, 14 Jun 2016 05:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28c838c6-58d3-42e8-b886-9adaac3b17f2.jpg">]]></description>
-            <link>undefinedcdab0861-bbcc-4072-88cd-08b59de3e21d/index.html</link>
+            <link>https://thegrid.ai/elektromozaiek/cdab0861-bbcc-4072-88cd-08b59de3e21d/index.html</link>
             <guid isPermaLink="false">cdab0861-bbcc-4072-88cd-08b59de3e21d</guid>
             <pubDate>Tue, 14 Jun 2016 05:34:14 GMT</pubDate>
         </item>
