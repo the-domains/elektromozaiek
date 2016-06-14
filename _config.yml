@@ -1,6 +1,6 @@
 name: Elektromozaiek
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.42967
 typography_spectrum: 0.86805
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#dce5b7'
     - '#c99b66'
     - '#868d69'
-  brandStrength: 0.5625
-  lightness: 0.625
+  brandStrength: 0.625
+  lightness: 1
   saturation: 0
   rhythmicContrast: 0.5
 purpose: []
